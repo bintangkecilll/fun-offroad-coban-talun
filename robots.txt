@@ -1,0 +1,11 @@
+# robots.txt for Fun Offroad Coban Talun
+# https://funoffroadcobantalun.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://funoffroadcobantalun.com/sitemap.xml
+
+# Disallow unnecessary paths
+Disallow: /img/
